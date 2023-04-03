@@ -1,4 +1,4 @@
-<h1 align="center"> RECENTES TRABALHOS </h1>
+<h1 align="center">  TRABALHOS RECENTES </h1>
 
 <p align="center">
 Trabalhos recentes de Elide Paixão<br/>
@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página com o conceito Mobile Firts e aplicação de GRID
+Uma página com o conceito Mobile first e aplicação de GRID
 
 ## Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/acFQfiJtMPdmNiMONKKQS4/DevLinks-(Community)?node-id=0%3A1&t=xEQaW6rz11NFCvnK-0)
+Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/r6RsqRlPx8RyvZu3hfCWpN/Explorer-Stage-03-Projeto-03-(Copy)?t=DprA4IZO6oBMlAH3-0)
 
 
-- [Visite o projeto online](https://elidepaixao.github.io/cartao-de-visitas/)
+- [Visite o projeto online](https://elidepaixao.github.io/trabalhosrecentes/)
